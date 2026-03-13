@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1092721063660",
+    "project_id": "pulsar-rides-60a16",
+    "storage_bucket": "pulsar-rides-60a16.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092721063660:android:02dac9b2a563ec910d17c9",
+        "android_client_info": {
+          "package_name": "com.pulsarrides.rider"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL761VgITzMjAj_fd2WCOqkvWXldAHOds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
