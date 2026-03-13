@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Dark Theme Colors -->
+    <color name="background_dark">#07070e</color>
+    <color name="background_card">#0f1018</color>
+    <color name="background_surface">#161722</color>
+    <color name="background_input">#1a1b2e</color>
+
+    <!-- Brand Colors -->
+    <color name="primary_cyan">#00e5ff</color>
+    <color name="primary_cyan_dark">#00b8d4</color>
+    <color name="primary_cyan_light">#18ffff</color>
+    <color name="primary_cyan_10">#1a00e5ff</color>
+    <color name="primary_cyan_20">#3300e5ff</color>
+    <color name="accent_magenta">#ff2d78</color>
+    <color name="accent_magenta_dark">#d4245f</color>
+    <color name="accent_magenta_10">#1aff2d78</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#B0B0C0</color>
+    <color name="text_hint">#666680</color>
+    <color name="text_on_cyan">#07070e</color>
+
+    <!-- Status Colors -->
+    <color name="status_success">#00E676</color>
+    <color name="status_warning">#FFD740</color>
+    <color name="status_error">#FF5252</color>
+
+    <!-- Map Overlay -->
+    <color name="map_overlay_gradient_start">#CC07070e</color>
+    <color name="map_overlay_gradient_end">#0007070e</color>
+
+    <!-- Misc -->
+    <color name="divider">#1F1F33</color>
+    <color name="ripple_cyan">#4000e5ff</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+</resources>

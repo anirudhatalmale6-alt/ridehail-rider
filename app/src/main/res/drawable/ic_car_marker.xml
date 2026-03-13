@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="40dp"
+    android:height="40dp"
+    android:viewportWidth="40"
+    android:viewportHeight="40">
+    <!-- Circle background -->
+    <path
+        android:fillColor="#00e5ff"
+        android:pathData="M20,20m-18,0a18,18 0,1 1,36 0a18,18 0,1 1,-36 0" />
+    <!-- Car icon -->
+    <path
+        android:fillColor="#07070e"
+        android:pathData="M28.46,15.01C28.26,14.42 27.7,14 27.04,14h-14c-0.66,0 -1.21,0.42 -1.42,1.01L9,21v8c0,0.55 0.45,1 1,1h1c0.55,0 1,-0.45 1,-1v-1h16v1c0,0.55 0.45,1 1,1h1c0.55,0 1,-0.45 1,-1v-8l-2.54,-5.99zM13.5,26c-0.83,0 -1.5,-0.67 -1.5,-1.5s0.67,-1.5 1.5,-1.5 1.5,0.67 1.5,1.5 -0.67,1.5 -1.5,1.5zM26.5,26c-0.83,0 -1.5,-0.67 -1.5,-1.5s0.67,-1.5 1.5,-1.5 1.5,0.67 1.5,1.5 -0.67,1.5 -1.5,1.5zM12,21l1.5,-4.5h13L28,21H12z"/>
+</vector>
